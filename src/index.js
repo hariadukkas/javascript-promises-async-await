@@ -1,4 +1,3 @@
-const fetchMovies = function (){
+export function fetchMovies(){
 
 }
-module.exports = {fetchMovies}
